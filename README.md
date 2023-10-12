@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ganesh Narwade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshnarwade&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshnarwade" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mr_g_n7" target="blank"><img src="https://img.shields.io/twitter/follow/mr_g_n7?logo=twitter&style=for-the-badge" alt="mr_g_n7" /></a> </p>
-
 - 📫 How to reach me **ganeshdnarwade7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
