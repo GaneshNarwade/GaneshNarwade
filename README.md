@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/mr_g_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_g_n7" height="30" width="40" /></a>
 <a href="https://medium.com/@ganeshdnarwade7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ganeshdnarwade7" height="30" width="40" /></a>
 </p>
-[![An image of @ganeshnarwade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshnarwade)](https://holopin.io/@ganeshnarwade)
+
+[![@ganeshnarwade's Holopin board ](https://holopin.me/ganeshnarwade)](https://holopin.io/@ganeshnarwade)
+
 
