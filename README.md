@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mr_g_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_g_n7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ganesh narwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh narwade" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_g_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_g_n7" height="30" width="40" /></a>
-<a href="https://medium.com/@ganeshdnarwade7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ganeshdnarwade7" height="30" width="40" /></a>
 </p>
 
 [![@ganeshnarwade's Holopin board ](https://holopin.me/ganeshnarwade)](https://holopin.io/@ganeshnarwade)
